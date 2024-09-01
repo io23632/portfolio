@@ -1,0 +1,6 @@
+Descriptor,Statistic,p_value,alpha value,Interpretation
+MW,402.5,0.003950000588171199,0.05,Different distribution (reject Null Hypothesis)
+pIC50,1500.0,4.798745799258547e-10,0.05,Different distribution (reject Null Hypothesis)
+LogP,704.5,0.7085807146109926,0.05,Same distribution (fail to reject Null Hypothesis)
+NumHDonors,296.5,6.94629505251274e-05,0.05,Different distribution (reject Null Hypothesis)
+NumHAcceptors,411.5,0.0044506040411623924,0.05,Different distribution (reject Null Hypothesis)
